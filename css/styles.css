@@ -1,0 +1,13 @@
+.log-in {
+  margin-top: 10px;
+}
+
+#index {
+  padding-left: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#message {
+  height: 10em;
+}
